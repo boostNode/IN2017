@@ -1,0 +1,9 @@
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\bin\Debug\Twitter.exe.config
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\bin\Debug\Twitter.exe
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\bin\Debug\Twitter.pdb
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\obj\Debug\Twitter.frmTwitter.resources
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\obj\Debug\Twitter.Properties.Resources.resources
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\obj\Debug\Twitter.csproj.GenerateResource.Cache
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\obj\Debug\Twitter.exe
+K:\_boostNode\GitHub\IN2017\Module02\Twitter\Twitter\obj\Debug\Twitter.pdb

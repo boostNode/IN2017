@@ -1,0 +1,12 @@
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe.config
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.pdb
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csprojResolveAssemblyReference.cache
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.frmMarshallsRevenue.resources
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.Properties.Resources.resources
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csproj.GenerateResource.Cache
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.exe
+E:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.pdb
+K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe.config
+K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.exe
+K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.pdb
