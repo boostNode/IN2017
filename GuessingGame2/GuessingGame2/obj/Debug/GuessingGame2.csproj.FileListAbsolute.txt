@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\Module02\GuessingGame2\GuessingGame2\bin\Debug\GuessingGame2.exe.config
+K:\_boostNode\GitHub\IN2017\Module02\GuessingGame2\GuessingGame2\bin\Debug\GuessingGame2.exe
+K:\_boostNode\GitHub\IN2017\Module02\GuessingGame2\GuessingGame2\bin\Debug\GuessingGame2.pdb
+K:\_boostNode\GitHub\IN2017\Module02\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\Module02\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.exe
+K:\_boostNode\GitHub\IN2017\Module02\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.pdb

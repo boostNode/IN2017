@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\Module02\TestScores\TestScores\bin\Debug\TestScores.exe.config
+K:\_boostNode\GitHub\IN2017\Module02\TestScores\TestScores\bin\Debug\TestScores.exe
+K:\_boostNode\GitHub\IN2017\Module02\TestScores\TestScores\bin\Debug\TestScores.pdb
+K:\_boostNode\GitHub\IN2017\Module02\TestScores\TestScores\obj\Debug\TestScores.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\Module02\TestScores\TestScores\obj\Debug\TestScores.exe
+K:\_boostNode\GitHub\IN2017\Module02\TestScores\TestScores\obj\Debug\TestScores.pdb

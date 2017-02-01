@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\Module02\SumInts\SumInts\bin\Debug\SumInts.exe.config
+K:\_boostNode\GitHub\IN2017\Module02\SumInts\SumInts\bin\Debug\SumInts.exe
+K:\_boostNode\GitHub\IN2017\Module02\SumInts\SumInts\bin\Debug\SumInts.pdb
+K:\_boostNode\GitHub\IN2017\Module02\SumInts\SumInts\obj\Debug\SumInts.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\Module02\SumInts\SumInts\obj\Debug\SumInts.exe
+K:\_boostNode\GitHub\IN2017\Module02\SumInts\SumInts\obj\Debug\SumInts.pdb
