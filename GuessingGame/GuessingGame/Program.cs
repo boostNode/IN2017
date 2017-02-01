@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *  Author: Troy Davis
+ *  Project: Guessing Game (Chapter 4, Programming Exercise 7)
+ *  Class: IN 2017 (Advanced C#)
+ *  Date: Feb 1, 2017 
+ *  Revision: Original
+ */
+
+using System;
 
 namespace GuessingGame
 {
