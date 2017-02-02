@@ -16,3 +16,6 @@ K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj
 K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.frmMarshallsRevenue.resources
 K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.Properties.Resources.resources
 K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csproj.GenerateResource.Cache
+K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI_1\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe.config
+K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI_1\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.exe
+K:\_boostNode\GitHub\IN2017\Module02\MarshallsRevenueGUI_1\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.pdb
