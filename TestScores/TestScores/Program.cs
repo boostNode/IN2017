@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *  Author: Troy Davis
+ *  Project: TestScores (Chapter 5, Programming Exercise 4)
+ *  Class: IN 2017 (Advanced C#)
+ *  Date: Feb 1, 2017 
+ *  Revision: Original
+ */
+
+using System;
 
 namespace TestScores
 {
