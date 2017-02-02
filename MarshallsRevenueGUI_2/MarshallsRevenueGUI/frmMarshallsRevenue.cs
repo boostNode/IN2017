@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *  Author: Troy Davis
+ *  Project: Marshall's Revenue GUI Application (Chapter 4, Case Problem 2 Revision)
+ *  Class: IN 2017 (Advanced C#)
+ *  Date: Feb 1, 2017 
+ *  Revision: Original
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
